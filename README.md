@@ -1,4 +1,5 @@
- IPL 2022 Player Data Analysis Project
+# IPL 2022 Data Analysis Project
+
 
 This project performs data analysis on a dataset containing IPL (Indian Premier League) player information. The dataset includes details such as player name, base price, type (batter, bowler, all-rounder, etc.), team, cost, and previous squad information. The analysis is conducted using Python libraries like 'pandas', 'matplotlib', and 'seaborn'.
 
