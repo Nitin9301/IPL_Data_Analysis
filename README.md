@@ -26,7 +26,9 @@ The dataset includes the following columns:
 ## Requirements
 
 - Python 3.x
-- Libraries: 
+- Libraries:
+  - pyspark
+  - spark.sql
   - pandas
   - matplotlib
   - seaborn
